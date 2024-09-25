@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1bc22d__c__function_aadg6la3n44ji",
+  "apiName": "nodejs0926cle",
+  "label": {
+    "zh_CN": "nodejs 0926 cle",
+    "en_US": "nodejs 0926 cle"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
