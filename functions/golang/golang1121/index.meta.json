@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1bc22d__c__function_aadhiatd2zidu",
+  "apiName": "golang1121",
+  "label": {
+    "zh_CN": "golang 1121",
+    "en_US": "golang 1121"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
