@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1bc22d__c__function_aadhi3kt6h2ju",
+  "apiName": "go1127",
+  "label": {
+    "zh_CN": "go 1127",
+    "en_US": "go 1127"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
