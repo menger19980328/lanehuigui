@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1bc22d__c__function_aadhmpo3ynigy",
+  "apiName": "go1219long",
+  "label": {
+    "zh_CN": "go 1219 long",
+    "en_US": "go 1219 long"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
