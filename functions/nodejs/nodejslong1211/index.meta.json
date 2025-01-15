@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1bc22d__c__function_aadhleg6emejs",
+  "apiName": "nodejslong1211",
+  "label": {
+    "zh_CN": "nodejslong 1211",
+    "en_US": "nodejslong 1211"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

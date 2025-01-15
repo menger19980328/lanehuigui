@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1bc22d__c__function_aadhnliagtgdg",
+  "apiName": "go1225",
+  "label": {
+    "zh_CN": "go 1225",
+    "en_US": "go 1225"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
