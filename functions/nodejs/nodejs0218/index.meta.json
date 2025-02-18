@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1bc22d__c__function_aadhwq3xxm6ji",
+  "apiName": "nodejs0218",
+  "label": {
+    "zh_CN": "nodejs 0218",
+    "en_US": "nodejs 0218"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
