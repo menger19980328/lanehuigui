@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1bc22d__c__function_aadhxvidbtshs",
+  "apiName": "node0225longcli",
+  "label": {
+    "zh_CN": "node 0225 longcli",
+    "en_US": "node 0225 longcli"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
