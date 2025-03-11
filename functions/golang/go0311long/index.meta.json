@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1bc22d__c__function_aadhz67v6dwbg",
+  "apiName": "go0311long",
+  "label": {
+    "zh_CN": "go 0311 long",
+    "en_US": "go 0311 long"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
